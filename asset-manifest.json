@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/my-portfolio-website-react/static/css/main.feb0d84e.css",
+    "main.js": "/my-portfolio-website-react/static/js/main.a918fbef.js",
+    "static/media/vecteezy_3d-illustration-of-programmer-pc-workspace_10998293.png": "/my-portfolio-website-react/static/media/vecteezy_3d-illustration-of-programmer-pc-workspace_10998293.1dc494147db496e5296b.png",
+    "index.html": "/my-portfolio-website-react/index.html",
+    "main.feb0d84e.css.map": "/my-portfolio-website-react/static/css/main.feb0d84e.css.map",
+    "main.a918fbef.js.map": "/my-portfolio-website-react/static/js/main.a918fbef.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.feb0d84e.css",
+    "static/js/main.a918fbef.js"
+  ]
+}
